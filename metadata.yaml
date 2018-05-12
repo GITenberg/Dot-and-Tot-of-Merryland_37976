@@ -1,0 +1,48 @@
+_repo: Dot-and-Tot-of-Merryland_37976
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Denslow, W. W. (William Wallace)
+    alias: Denslow, William Wallace
+    birthdate: &id001 1856
+    deathdate: 1915
+    gutenberg_agent_id: '8101'
+    url: http://www.gutenberg.org/2009/agents/8101
+    wikipedia: http://en.wikipedia.org/wiki/William_Wallace_Denslow
+covers:
+- cover_type: archival
+  image_path: 37976-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Akers, Floyd
+    - Cooke, John Estes
+    - Fitzgerald, Hugh
+    - Baum, Lyman Frank
+    - Van Dyne, Edith
+    - Fitzgerald, Capt. Hugh
+    - Metcalf, Suzanne
+    - Bancroft, Laura
+    birthdate: *id001
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: Evangeline Josephine Freeland, who has the nickname Dot, explores her
+  father's country estate. One morning she discovers a tiny cottage, and on a path
+  leading to it, a little boy. He is the gardener's son, Tot, and together they are
+  swept away on a boat to a strange place they never knew existed, Merryland!.
+gutenberg_issued: '2011-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37976'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction'
+- !lcc 'PZ'
+title: Dot and Tot of Merryland
+url: http://www.gutenberg.org/ebooks/37976
