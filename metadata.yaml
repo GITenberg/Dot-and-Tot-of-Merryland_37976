@@ -4,7 +4,7 @@ contributor:
   illustrator:
     agent_name: Denslow, W. W. (William Wallace)
     alias: Denslow, William Wallace
-    birthdate: &id001 1856
+    birthdate: 1856
     deathdate: 1915
     gutenberg_agent_id: '8101'
     url: http://www.gutenberg.org/2009/agents/8101
@@ -24,7 +24,7 @@ creator:
     - Fitzgerald, Capt. Hugh
     - Metcalf, Suzanne
     - Bancroft, Laura
-    birthdate: *id001
+    birthdate: 1856
     deathdate: 1919
     gutenberg_agent_id: '42'
     url: http://www.gutenberg.org/2009/agents/42
@@ -33,6 +33,8 @@ description: Evangeline Josephine Freeland, who has the nickname Dot, explores h
   father's country estate. One morning she discovers a tiny cottage, and on a path
   leading to it, a little boy. He is the gardener's son, Tot, and together they are
   swept away on a boat to a strange place they never knew existed, Merryland!.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37976#Dot-and-Tot-of-Merryland
 gutenberg_issued: '2011-11-11'
 gutenberg_type: Text
 identifiers:
